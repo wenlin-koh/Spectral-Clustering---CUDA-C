@@ -1,3 +1,13 @@
+/* Start Header
+***************************************************************** /
+/*!
+\file knn-kernel.cu
+\author Koh Wen Lin
+\brief
+  Contains the implementation for kmeans clustering on the gpu.
+*/
+/* End Header
+*******************************************************************/
 #include "cuda_runtime.h"
 #include <helper_cuda.h>
 #include <helper_functions.h>  // helper for shared that are common to CUDA Samples

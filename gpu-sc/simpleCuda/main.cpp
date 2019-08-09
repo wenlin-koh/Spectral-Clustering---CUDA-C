@@ -1,18 +1,3 @@
-/* Start Header
-***************************************************************** /
-/*!
-\file main.cpp
-\author Low Jin Liang Aaron, aaron.low, 390001116
-\par aaron.low@digipen.edu
-\date 20/5/2019
-\brief
-Copyright (C) 2019 DigiPen Institute of Technology.
-Reproduction or disclosure of this file or its contents without the
-prior written consent of DigiPen Institute of Technology is prohibited.
-*/
-/* End Header
-*******************************************************************/
-
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 
